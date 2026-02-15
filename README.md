@@ -64,7 +64,7 @@ Nintendo Switch (NSP, Requires custom firmware / Dev Kit and does not run on ret
 
 Why did we make this?
 
-Becuase we love the game, and wanted to give it a modern take so new players and fans alike can experience it in a more modern way but retain the original gameplay.
+Because we love the game, and wanted to give it a modern take so new players and fans alike can experience it in a more modern way but retain the original gameplay.
 
 What do I need to play it?
 A modern PC will suffice from 2020 onwards, with Windows 10/11 or supported OS that a build is for. 
