@@ -5,6 +5,8 @@ A modern remake / remaster of Mystical Ninja Starring Goemon. Using a unique ROM
 
 Note: Due to the nature of this project and what it is and does, it's NOT open source. This repo is purely for reporting issues, downloading the game, seeing the documentation and making suggestions for game improvement.
 
+Download our releases from 'Releases' on Github. We mostly will post direct links from our parent domain, spacefarergames.com as Github can sometimes struggle with large file downloads.
+
 ![Logo](KaiHighwayPreview.png)
 
 Goemon 64 Remastered is a ground‑up Unity re‑implementation that uses the original N64 ROM as a live data source. Geometry are streamed directly from memory, then reconstructed with modern rendering, physics, and cinematics. The result is a faithful yet dramatically enhanced version of the classic—preserved at the byte level, but presented with contemporary polish.
