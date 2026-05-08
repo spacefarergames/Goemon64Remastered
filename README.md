@@ -8,7 +8,7 @@ Note: Due to the nature of this project and what it is and does, it's NOT open s
 Download our releases from 'Releases' on Github. We mostly will post direct links from our parent domain, spacefarergames.com as Github can sometimes struggle with large file downloads.
 
 ![Logo](KaiHighwayPreview.png)
-
+> This is a Free, Non-profit passion project but takes us a lot of coffee to get it done! Donate to us at https://buymeacoffee.com/jakeysbakery
 Goemon 64 Remastered is a ground‑up Unity re‑implementation that uses the original N64 ROM as a live data source. Geometry are streamed directly from memory, then reconstructed with modern rendering, physics, and cinematics. The result is a faithful yet dramatically enhanced version of the classic—preserved at the byte level, but presented with contemporary polish.
 
 🧠 ROM‑Driven Authenticity
