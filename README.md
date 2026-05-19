@@ -5,6 +5,9 @@ A modern remake / remaster of Mystical Ninja Starring Goemon. Using a unique ROM
 
 Note: Due to the nature of this project and what it is and does, it's NOT open source. This repo is purely for reporting issues, downloading the game, seeing the documentation and making suggestions for game improvement.
 
+> This is a Free, Non-profit passion project but takes us a lot of coffee to get it done! Donate to us at https://buymeacoffee.com/jakeysbakery
+> PayPal- jake@spacefarergames.com
+
 Download our releases from 'Releases' on Github. We mostly will post direct links from our parent domain, spacefarergames.com as Github can sometimes struggle with large file downloads.
 
 ![Logo](KaiHighwayPreview.png)
