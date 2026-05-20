@@ -1,7 +1,9 @@
-# Goemon64Remastered
+# Mystical Ninja - Starring Goemon : Remastered
 
 ![Logo](GoemonLogo.png)
 A modern remake / remaster of Mystical Ninja Starring Goemon. Using a unique ROM memory extraction approach, it aims to recreate the gameplay 1:1 with modern graphics, controls, camera and other enhancements so that new players and fans alike can enjoy a new version of the game but still enjoy what made the original great. Requires ROM.
+
+<img width="1917" height="873" alt="Screenshot 2026-02-15 180224" src="https://github.com/user-attachments/assets/e4ef9994-2a34-47ed-a6c8-1563a56dfcc5" />
 
 Note: Due to the nature of this project and what it is and does, it's NOT open source. This repo is purely for reporting issues, downloading the game, seeing the documentation and making suggestions for game improvement.
 
